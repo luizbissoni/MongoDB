@@ -1,0 +1,32 @@
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\bin\Debug\Mongodb.exe.config
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\bin\Debug\Mongodb.exe
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\bin\Debug\Mongodb.pdb
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\bin\Debug\DnsClient.dll
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\bin\Debug\MongoDB.Bson.dll
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\bin\Debug\MongoDB.Driver.dll
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\bin\Debug\System.Buffers.dll
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\bin\Debug\DnsClient.xml
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\bin\Debug\MongoDB.Bson.xml
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\bin\Debug\MongoDB.Driver.xml
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\obj\Debug\Mongodb.csprojResolveAssemblyReference.cache
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\obj\Debug\Mongodb.exe
+c:\users\t-gamer\documents\visual studio 2013\Projects\Mongodb\Mongodb\obj\Debug\Mongodb.pdb
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\bin\Debug\Mongodb.exe.config
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\obj\Debug\Mongodb.exe
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\obj\Debug\Mongodb.pdb
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\bin\Debug\Mongodb.exe
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\bin\Debug\Mongodb.pdb
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\bin\Debug\DnsClient.dll
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\bin\Debug\MongoDB.Bson.dll
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\bin\Debug\MongoDB.Driver.dll
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\bin\Debug\System.Buffers.dll
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\bin\Debug\DnsClient.xml
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\bin\Debug\MongoDB.Bson.xml
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\bin\Debug\MongoDB.Driver.xml
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\T-Gamer\Documents\GitHub\mongodb-CRUD-CSharp-ConsoleApplication\Mongodb\obj\Debug\Mongodb.csprojResolveAssemblyReference.cache
